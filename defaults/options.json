@@ -28,5 +28,5 @@
     "PHP_MODULES_STRIP": true,
     "PHP_MODULES": ["ldap"],
     "PHP_EXTENSIONS": ["bz2", "zlib", "curl", "mcrypt", "ldap"],
-    "ZEND_EXTENSIONS": []
+    "ZEND_EXTENSIONS": ["ldap"]
 }
